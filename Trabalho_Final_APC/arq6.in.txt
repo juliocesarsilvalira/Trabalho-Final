@@ -1,0 +1,23 @@
+l p p r i n g i j k o l y e
+x f g v b w h i l e p l o t
+y a s w e f g t r e t p l a
+t b n m e e s l e p l r u r
+r q a s z c t g t t e i c e
+u f g b c f s n w s x n l m
+e r n a r o i l m k i t l u
+o p l l k m i q w r d o p n
+p l j t u i j l e a z i x e
+a s o t v b n t f o r d c l
+p n r t d x c v d f q e r t
+11
+while
+true
+else
+if
+dict
+elif
+int
+not
+enumerate
+for
+print
