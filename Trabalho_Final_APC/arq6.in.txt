@@ -9,13 +9,12 @@ o p l l k m i q w r d o p n
 p l j t u i j l e a z i x e
 a s o t v b n t f o r d c l
 p n r t d x c v d f q e r t
-11
+10
 while
 true
 else
 if
 dict
-elif
 int
 not
 enumerate
